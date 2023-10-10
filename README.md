@@ -1,4 +1,4 @@
-# Swapan-Samanta
+
 <h1 align="center">Hi 👋, I'm Swapan</h1>
 <h3 align="center">A passionate full-Stack and Software developer from India</h3>
 
