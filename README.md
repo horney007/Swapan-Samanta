@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapan</h1>
 <h3 align="center">A passionate full-Stack and Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapan001&label=Profile%20views&color=0e75b6&style=flat" alt="swapan001" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapan001&label=Profile%20views&color=0e75b6&style=flat" alt="swapan001" /> </p>    -->
 
 <p align="left"> <a href="https://twitter.com/swap_n007" target="blank"><img src="https://img.shields.io/twitter/follow/swap_n007?logo=twitter&style=for-the-badge" alt="swap_n007" /></a> </p>
 
